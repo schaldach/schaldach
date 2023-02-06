@@ -1,4 +1,17 @@
-### Hi there 👋
+### Olá 👋, aqui vai um pequeno resumo da minha Tech stack...
+📖 Tecnologias que estou aprendendo no momento 📖:
+  - TypeScript
+  - Sass
+  - MongoDb
+  - Next.js 13
+  
+💻 O que você vai encontrar nos meus projetos 💻:
+   - React
+   - Next.js
+   - CSS
+   - JavaScript
+   - p5.js
+   - Supabase
 
 <!--
 **schaldach/schaldach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

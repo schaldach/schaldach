@@ -5,7 +5,7 @@
   - MongoDb
   - Next.js 13
   
-💻 O que você vai encontrar nos meus projetos 💻:
+💻 O que você vai encontrar nos meus repositórios 💻:
    - React
    - Next.js
    - CSS

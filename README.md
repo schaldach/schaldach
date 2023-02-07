@@ -1,10 +1,5 @@
 ### Olá 👋, aqui vai um pequeno resumo da minha Tech stack...
-📖 Tecnologias que estou aprendendo no momento 📖:
-  - TypeScript
-  - Sass
-  - MongoDb
-  - Next.js 13
-  
+
 💻 O que você vai encontrar nos meus repositórios 💻:
    - React
    - Next.js

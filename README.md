@@ -1,5 +1,11 @@
 ### Olá 👋, aqui vai um pequeno resumo da minha Tech stack...
 
+📖 Tecnologias que estou aprendendo no momento 📖:
+   - Firebase
+   - Sass
+   - Next.js 13
+   - TypeScript
+
 💻 O que você vai encontrar nos meus repositórios 💻:
    - React
    - Next.js

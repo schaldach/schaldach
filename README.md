@@ -2,7 +2,7 @@
 
 📖 Tecnologias que estou aprendendo no momento 📖:
    - Firebase
-   - Sass
+   - Tailwind
    - Next.js 13
    - TypeScript
 

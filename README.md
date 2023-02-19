@@ -10,6 +10,7 @@
    - React
    - Next.js
    - CSS
+   - HTML
    - JavaScript
    - p5.js
    - Supabase

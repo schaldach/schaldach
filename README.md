@@ -5,6 +5,8 @@
    - Tailwind
    - Next.js 13
    - TypeScript
+   - Tensorflow.js
+   - Three.js
 
 💻 O que você vai encontrar nos meus repositórios 💻:
    - React

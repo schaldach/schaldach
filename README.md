@@ -1,11 +1,13 @@
 ### Olá 👋, aqui vai um pequeno resumo da minha Tech stack...
 
 📖 Tecnologias que estou aprendendo no momento 📖:
-   - Firebase
-   - Tailwind
+   - Firebase.js
+   - Tailwind CSS
    - Next.js 13
    - TypeScript
    - Tensorflow.js
+   - Docker
+   - PostgreSQL / Prisma
    - Three.js
 
 💻 O que você vai encontrar nos meus repositórios 💻:

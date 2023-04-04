@@ -1,12 +1,12 @@
-### Olá 👋, aqui vai um pequeno resumo da minha Tech stack...
+### Hi there 👋, I'm a brazilian fullstack developer and here goes an overview on my tech stack...
 
-📖 Tecnologias que estou aprendendo no momento 📖:
+📖 Technologies I'm currently learning 📖:
    - Tailwind CSS
    - TypeScript
    - Docker
    - PostgreSQL / Prisma
 
-💻 O que você vai encontrar nos meus repositórios 💻:
+💻 What you will find in my Github repositories 💻:
    - React
    - Next.js 12/13
    - CSS

@@ -2,6 +2,7 @@
 
 📖 Technologies I'm currently learning 📖:
    - Tailwind CSS
+   - UI Libraries (Ant Design)
    - TypeScript
    - Docker
    - PostgreSQL / Prisma

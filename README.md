@@ -5,11 +5,12 @@
    - UI Libraries (Ant Design)
    - TypeScript
    - Docker
-   - PostgreSQL / Prisma
+   - MongoDB (NoSQL) / Prisma
 
 💻 What you will find in my Github repositories 💻:
    - React
    - Next.js 12/13
+   - Supabase (PostgreSQL)
    - CSS
    - HTML
    - JavaScript

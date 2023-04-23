@@ -5,7 +5,8 @@
    - UI Libraries (Ant Design)
    - TypeScript
    - Docker
-   - MongoDB (NoSQL) / Prisma
+   - MongoDB (NoSQL)
+   - Prisma
 
 💻 What you will find in my Github repositories 💻:
    - React

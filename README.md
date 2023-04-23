@@ -12,6 +12,7 @@
    - React
    - Next.js 12/13
    - Supabase (PostgreSQL)
+   - Firebase (NoSQL)
    - CSS
    - HTML
    - JavaScript

@@ -15,7 +15,6 @@
    - HTML
    - JavaScript
    - p5.js / Three.js
-   - Supabase / Firebase
    - Tensorflow.js
 
 <!--

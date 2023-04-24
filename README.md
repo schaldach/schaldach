@@ -1,6 +1,7 @@
-### Hi there 👋, I'm a brazilian Full Stack developer and here goes an overview on my tech stack...
+### Hi there 👋, I'm a brazilian Full Stack developer that likes to build awesome web applications. 
+## Here goes an overview on my tech stack:
 
-📖 Technologies I'm currently learning 📖:
+📖 Technologies I'm currently learning 📖
    - Tailwind CSS
    - UI Libraries (Ant Design)
    - TypeScript
@@ -8,7 +9,7 @@
    - MongoDB (NoSQL)
    - Prisma
 
-💻 Technologies you will find in my Github repositories (or that I have worked with) 💻:
+💻 Technologies you will find in my Github repositories (or that I have worked with) 💻
    - React
    - Next.js 12/13
    - Supabase (PostgreSQL)

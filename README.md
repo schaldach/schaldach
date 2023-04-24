@@ -8,7 +8,7 @@
    - MongoDB (NoSQL)
    - Prisma
 
-💻 What you will find in my Github repositories 💻:
+💻 What I have already worked with 💻:
    - React
    - Next.js 12/13
    - Supabase (PostgreSQL)

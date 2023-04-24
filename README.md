@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm a brazilian Full Stack developer that likes to build awesome web applications. 
-## Here goes an overview on my tech stack:
+### Here goes an overview on my tech stack:
 
 📖 Technologies I'm currently learning 📖
    - Tailwind CSS

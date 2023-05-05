@@ -4,6 +4,7 @@
 📖 Technologies I'm currently learning 📖
    - Tailwind CSS
    - UI Libraries (Ant Design)
+   - Figma
    - TypeScript
    - Docker
    - MongoDB (NoSQL)

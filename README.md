@@ -1,14 +1,5 @@
 ## Hi there 👋, I'm a Brazilian Full Stack developer that likes to build awesome web applications. 
-### Here goes an overview on my tech stack:
-
-📖 Technologies I'm currently learning 📖
-   - Tailwind CSS
-   - UI Libraries (Ant Design)
-   - Figma
-   - TypeScript
-   - Docker
-   - MongoDB (NoSQL)
-   - Prisma
+## In my profile you will projects that mix the power of Web and Math, my other passion aside from programming.
 
 💻 Technologies you will find in my Github repositories (or that I have worked with) 💻
    - React
@@ -18,7 +9,7 @@
    - CSS
    - HTML
    - JavaScript
-   - p5.js / Three.js
+   - Three.js
    - Tensorflow.js
 
 <!--

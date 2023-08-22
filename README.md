@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm a Brazilian Full Stack developer that likes to build awesome Web applications. 
-### In my profile you will find projects that mix the power of Web and Math, my other passion aside from programming.
+### In my profile you will find projects involving Web development and Math, my other passion aside from programming.
 
 💻 Technologies you will find in my Github repositories (or that I have worked with) 💻
    - React

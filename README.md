@@ -3,7 +3,7 @@
 
 💻 Technologies you will find in my Github repositories (or that I have worked with) 💻
    - React
-   - Next.js 12/13
+   - Next.js 12
    - Supabase (PostgreSQL)
    - Firebase (NoSQL)
    - CSS

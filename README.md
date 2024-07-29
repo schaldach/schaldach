@@ -2,13 +2,12 @@
 ### In my profile you will find projects involving Web development, Data Science and Math.
 
 💻 Technologies you will find in my Github repositories (or that I have worked with) 💻
-   - React
-   - PostgreSQL
-   - NoSQL
    - CSS
    - HTML
    - JavaScript
    - Three.js
+   - Node.js
+   - React
    - Python
    - Pandas
    - Numpy

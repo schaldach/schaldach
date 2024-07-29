@@ -1,17 +1,24 @@
-## Hi there 👋, I'm a Brazilian Full Stack developer that likes to build awesome Web applications. 
-### In my profile you will find projects involving Web development and Math, my other passion aside from programming.
+## Hi there 👋, I'm a Brazilian Computer Scientist and Full Stack developer. 
+### In my profile you will find projects involving Web development, Data Science and Math.
 
 💻 Technologies you will find in my Github repositories (or that I have worked with) 💻
    - React
-   - Next.js 12
-   - Supabase (PostgreSQL)
-   - Firebase (NoSQL)
+   - PostgreSQL
+   - NoSQL
    - CSS
    - HTML
    - JavaScript
    - Three.js
-   - Tensorflow.js
+   - Python
+   - Pandas
+   - Numpy
 
+📖 I'm currently learning and studying 📖
+   - Data science
+   - Machine learning
+   - Climate analysis
+
+🚩 My current goal is to start working with Climate Data Science! 🚩
 <!--
 **schaldach/schaldach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

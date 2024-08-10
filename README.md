@@ -1,4 +1,4 @@
-## Hi there 👋, I'm a Brazilian Computer Scientist and Full Stack developer. 
+## Hi there 👋, I'm a Brazilian Computer Scientist and (aspiring) Data Scientist. 
 ### In my profile you will find projects involving Web development, Data Science and Math.
 
 💻 Technologies you will find in my Github repositories (or that I have worked with) 💻

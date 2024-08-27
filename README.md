@@ -14,7 +14,7 @@
 
 📖 I'm currently learning and studying 📖
    - Data science
-   - Machine learning
+   - AI & Machine learning
    - Climate analysis
 
 🚩 My current goal is to start working with Climate Data Science! 🚩

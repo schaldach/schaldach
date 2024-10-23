@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm a Brazilian Computer Scientist and (aspiring) Data Scientist. 
 ### In my profile you will find projects involving Web development, Data Science and Math.
 
-💻 Technologies you will find in my Github repositories (or that I have worked with) 💻
+💻 Relevant technologies I have worked with 💻
    - CSS
    - HTML
    - JavaScript
@@ -13,7 +13,8 @@
    - Numpy
 
 📖 I'm currently learning and studying 📖
-   - Data science
+   - Data science and Data Analysis
+   - R
    - AI & Machine learning
    - Climate analysis
 

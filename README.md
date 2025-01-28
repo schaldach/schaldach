@@ -11,10 +11,11 @@
    - Python
    - Pandas
    - Numpy
+   - Sklearn
+   - R
 
 📖 I'm currently learning and studying 📖
    - Data science and Data Analysis
-   - R
    - AI & Machine learning
    - Climate analysis
 
